@@ -21,9 +21,6 @@
     "noUnusedLocals": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
-    "paths": {
-      "@graphql-codegen/typescript-graphql-request": ["packages/plugins/typescript/graphql-request/src/index.ts"],
-    }
   },
   "exclude": ["**/tests/test-files", "**/tests/test-documents", "**/dist", "**/temp"]
 }
