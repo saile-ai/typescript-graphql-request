@@ -43,11 +43,12 @@
     "@graphql-tools/schema": "10.0.4",
     "graphql-request": "6.0.0"
   },
-  "publishConfig": {
-    "directory": "dist",
-    "access": "public"
-  },
   "typescript": {
     "definition": "dist/typings/index.d.ts"
+  },
+  "publishConfig": {
+    "directory": "dist",
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   }
 }
