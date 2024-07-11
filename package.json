@@ -48,7 +48,7 @@
   },
   "publishConfig": {
     "directory": "dist",
-    "registry": "https://npm.pkg.github.com",
+    "@eric-mcgary-saile:registry": "https://npm.pkg.github.com",
     "access": "restricted"
   }
 }
