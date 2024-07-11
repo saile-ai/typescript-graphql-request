@@ -1,5 +1,5 @@
 {
-  "name": "custom-typescript-graphql-request",
+  "name": "@saile-ai/typescript-graphql-request",
   "version": "0.1.0",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
